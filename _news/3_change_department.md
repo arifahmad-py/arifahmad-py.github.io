@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transferred to Department of Electrical Engineering, IIT Bombay based on academic performance ⚡🧲📱
+title: Transferred to Department of Electrical Engineering, IIT Bombay based on academic performance 🧲⚡
 date: 2020-08-03 10:13:00+0530
 inline: false
 related_posts: false
